@@ -1,4 +1,4 @@
-# my-project-vue
+# Paidy and Vue v2
 
 ## Project setup
 ```
